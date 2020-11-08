@@ -14,7 +14,7 @@ int main(){
 	int i;
 	double x;
 
-	// If it is a string type use & to scan
+	// If it is a string type do not use & to scan
 	printf("Enter a value: ");
 	scanf("%s %d",str, &i);
 
