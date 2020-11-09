@@ -41,3 +41,9 @@ _Real constants are often called Floating Point Constants. The real constants co
 (d) - Default sign is positive.
 
 (e) - No commas or blanks are allowed within a real constant.
+
+# Rules for Constructing Character Constants:
+(a) - A character constant is a single alphabet, a single digit or
+a single special symbol enclosed within single inverted commas. Both the inverted commas should point to the left. For example, [`A`] is a valid character constant whereas ['A'] is not.
+
+(b) - The maximum length of a character constant can be 1 character.
