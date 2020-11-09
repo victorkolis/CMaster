@@ -1,6 +1,7 @@
 # Types of C constants
 ## C constants can be divided into two major categories:
 (a) - Primary Constants
+
 (b) - Secondary Constants
 
 ### Primary constants:
