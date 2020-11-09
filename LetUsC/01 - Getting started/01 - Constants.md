@@ -13,14 +13,18 @@
 * Pointer
 * Union
 * Enum. etc.
-[=======================================================]
 
 # Rules for Constructing Integer Constants:
 (a) - An integer constant must have at least one digit.
+
 (b) - It must not have a decimal point.
+
 (c) - It can be either positive or negative.
+
 (d) - If no sigh preceds an integer constant it is assumed to be positive.
+
 (e) - No commas or blanks are allowed within an integer constant.
+
 (f) - The allowable range for integer constants is -32768 to 32767.
 
 # Rules for Constructing Real Constants:
