@@ -1,4 +1,4 @@
-# The exponential for of representation:
+# The exponential form of representation:
 1. _This form of representation is usually used if the value of the constant is either too small or too large. However, we could use this type of notation to represent whatever other real constants._
 
 2. _In exponential form of representation, the real constant is represented in two parts. The part appearing before 'e' is called mantissa, whereas the part following 'e' is called exponent._
