@@ -32,7 +32,11 @@ _Real constants are often called Floating Point Constants. The real constants co
 
 
 (a) - *A real constant must have at least one digit.*
+
 (b) - It must have a decimal point.
+
 (c) - It could be either positive or negative.
+
 (d) - Default sign is positive.
+
 (e) - No commas or blanks are allowed within a real constant.
