@@ -1,5 +1,5 @@
 //
-//  _04_IsoscelesTriangle.c
+//  _04_Challenge_IsoscelesTriangle.c
 //  Instructor: Vlad
 //
 //  Created by VictorKolis on 12/11/20.
