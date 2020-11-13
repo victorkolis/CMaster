@@ -1,5 +1,5 @@
 //
-//  _01_AdditionOfAllElementsInMatrix.c
+//  _01_addition_of_all_elements_in_a_matrix.c
 //  Original code @ Happy Codings
 //
 //  Created by VictorKolis on 12/11/20.
