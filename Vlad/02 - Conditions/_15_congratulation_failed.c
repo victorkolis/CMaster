@@ -1,5 +1,5 @@
 //
-//  _15_congratulaiton_failed.c
+//  _15_congratulation_failed.c
 //  Instructor: Vlad
 //
 //  Created by VictorKolis on 16/11/20.
