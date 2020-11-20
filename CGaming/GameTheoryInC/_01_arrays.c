@@ -2,7 +2,7 @@
 //  _01_arrays.c
 //  GameTheoryInC
 //
-//  This software objective is to return the highest valeu in an array
+//  This software objective is to return the highest value in an array
 //  Created by VictorKolis on 19/11/20.
 //
 
