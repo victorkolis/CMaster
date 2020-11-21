@@ -1,5 +1,5 @@
 //
-//  _18_min_max_2_numbers.c
+//  _18_min_max_2_numbers_challenge.c
 //  Instructor : Vlad
 //
 //  Created by VictorKolis on 20/11/21.
