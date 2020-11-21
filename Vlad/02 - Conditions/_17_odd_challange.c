@@ -1,6 +1,6 @@
 //
 //  _17_odd_challange.c
-//  Vlad
+//  Instructor : Vlad
 //
 //  Created by VictorKolis on 20/11/20.
 //
