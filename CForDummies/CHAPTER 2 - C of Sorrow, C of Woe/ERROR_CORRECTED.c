@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[]) {
 	
-	printf("Farewell, ugly toad!") // ; is missing
+	printf("Farewell, ugly toad!");
 	return (0);
 	
 }
