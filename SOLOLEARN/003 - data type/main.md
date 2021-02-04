@@ -10,3 +10,6 @@ char: single character.
 The amount of storage required for each of these types varies by platform.
 C has a built-in sizeof operator that gives the memory requirements for a particular data type.
 For example: main.c
+
+The & sign before the variable is known as the 
+address operator.
