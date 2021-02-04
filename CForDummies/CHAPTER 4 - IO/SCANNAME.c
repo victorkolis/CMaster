@@ -2,8 +2,9 @@
 
 int main(int argc, char *argv[]) {
 	
-	printf("%15s\n", "right");
-	printf("%-15s\n", "left");
+	char firstname[20];
+	
+	scanf("%s", &firstname);
 	
 	return (0);
 }
