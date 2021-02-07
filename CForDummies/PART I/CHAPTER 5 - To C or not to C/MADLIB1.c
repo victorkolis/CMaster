@@ -25,10 +25,15 @@ int main(int argc, char *argv[]) {
 	printf("Enter a furniture: ");
 	scanf("%s", &furniture);
 	
+	
 	/* Display the output */
 	printf("\n\nDon't touch that %s %s!\n", adjective, food);
 	printf("\n\nI just %s the %s!\n", chore, furniture);
 	
-	
+	/* Disabled code:
+	 * 
+	 * prinft("This should be disabled, otherwise, an error would occur.")
+	 *
+	 */
 	return (0);
 }
