@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[]) {
 	
-	cout << "Hi"
+	/*delete this file*/
 	
 	return 0;
 }
