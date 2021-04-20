@@ -3,6 +3,8 @@
 
 int main(int argc, char *argv[]) {
 	
+	// V A R I A B L E S    A N D    P L A C E H O L D E R S
+	
 	char testGrade = 'A';
 	char name[] = "Kolis";
 	
