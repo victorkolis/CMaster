@@ -16,6 +16,5 @@ int main(int argc, char *argv[]) {
 	// Derefencing a pointer with the * prefix, getting the actual value instead of the address
 	printf("%d \n", *pNum);
 	
-	
 	return 0;
 }
